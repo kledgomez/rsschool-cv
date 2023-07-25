@@ -1,5 +1,5 @@
 ### 1. Name 
-Ilyuza Bagautdinova
+- Ilyuza Bagautdinova
 
 ### 2. Contacts
 - telephone: 89373676497 | 89393085274
@@ -7,7 +7,7 @@ Ilyuza Bagautdinova
 - diskord: @kledgomez
 
 ### 3. About me
-  For the last 9 months I have been studying at School21 from Sberbank. I concluded that the backend was not for me, so I decided to focus my attention on learning DevOps more deeply and try my hand at FE.
+- For the last 9 months I have been studying at School21 from Sberbank. I concluded that the backend was not for me, so I decided to focus my attention on learning DevOps more deeply and try my hand at FE.
   
 ### 4. Skills 
  ## Hard skills:
@@ -23,7 +23,7 @@ Ilyuza Bagautdinova
 - has a fine sense of taste and color
 
 ### 5. Code 
-  You can see code examples on my GitHub page.(However, there is probably nothing in the public domain now)
+- You can see code examples on my GitHub page.(However, there is probably nothing in the public domain now)
   
 ### 6. Projects:
 - SimpleBash(cat and grep utilities realization)
