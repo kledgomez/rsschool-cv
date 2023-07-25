@@ -1,0 +1,34 @@
+div{
+    border: 1px solid black;
+}
+
+#main{
+    width: 80%;
+    margin: 0 auto;
+}
+
+#header{
+    height: 110px;
+}
+
+#left{
+    height: 500px;
+    width: 20%;
+    float: left;
+}
+
+#content{
+    height: 500px;
+    overflow: hidden;
+}
+
+.right{
+    height: 500px;
+    width: 20%;
+    float: right;
+}
+
+#footer{
+    height: 70px;
+    clear: both;
+}
